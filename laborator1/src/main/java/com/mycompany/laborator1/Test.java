@@ -9,5 +9,7 @@ package com.mycompany.laborator1;
  * @author Marius
  */
 public class Test {
-    
+    public static void main(String[] args) {
+        System.out.println("Hello");
+    }
 }
